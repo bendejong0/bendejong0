@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Resume](https://github.com/bendejong0/Resume/blob/main/BenDeJongResume2024-1.pdf)
+![Resume](https://github.com/bendejong0/bendejong0/blob/main/Resume-DeJong-Jan-2024.png)
 
 <!--
 **bendejong0/bendejong0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
