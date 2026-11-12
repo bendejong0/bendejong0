@@ -1,5 +1,4 @@
-### Hi there! I'm Ben DeJong, a computer science and math student at Elmhurst University
+I writing a code. ML Researcher
 
-I'm working on: Differential Equations, NLP, Reinforcement Learning, Probability, Counting, and Modeling!  
-[Leetcode profile](https://leetcode.com/bendejong0/)  
-[LinkedIn profile](https://www.linkedin.com/in/bendejong123/)  
+Interests:
+Algebraic topology, group theory, linear algebra, theory of computation, automata theory, compilers, machine learning, optimization
